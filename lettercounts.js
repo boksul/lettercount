@@ -20,7 +20,7 @@ function countLetters(str) {
     if (letters[singleLetter] === undefined) {
       letters[singleLetter] = 1
     } else {
-      letters[sigleLetter] += 1
+      letters[singleLetter] += 1
     }
 
   }
